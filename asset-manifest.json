@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thai-genetic-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/thai-genetic-calculator/static/js/main.aa087889.js",
+    "index.html": "/thai-genetic-calculator/index.html",
+    "main.e6c13ad2.css.map": "/thai-genetic-calculator/static/css/main.e6c13ad2.css.map",
+    "main.aa087889.js.map": "/thai-genetic-calculator/static/js/main.aa087889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aa087889.js"
+  ]
+}
